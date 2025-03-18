@@ -23,11 +23,11 @@ Worked in a chemical lab, involved in perfume creation and application.
 
 ## Technologies and Tools
 
-<img  align ="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1jdXMya2h3eGMxNTdyMDk5ZXpuc2htYzI1dTBnZWhiZjdsdW9hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="image a man coding" width ="55%" />
+<img  align ="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1jdXMya2h3eGMxNTdyMDk5ZXpuc2htYzI1dTBnZWhiZjdsdW9hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="image a man coding" width ="50%" />
 
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,react,redux,cs,bootstrap,firebase,figma&perline=5" alt="My Skills" style="width: 150px; height: auto;"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,git,github,react,redux,cs,bootstrap,firebase,figma&perline=5" alt="My Skills" style="width: 35%; height: auto;"/>
 
 ### Connect with me
 
