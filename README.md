@@ -35,6 +35,7 @@ Worked in a chemical lab, involved in perfume creation and application.
 </div>
 
 <br>
+
 ### ⚡ Thanks for visiting my profile! ⚡
 
 
